@@ -40,3 +40,4 @@ sd(mis_dades$cyl)
 
 #calcular la varianza (corregida)
 var(mis_dades$qsec)
+z
